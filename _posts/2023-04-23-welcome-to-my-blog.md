@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Roundup (2023-04-23)"
+title: "Welcome to my blog!"
 date: 2023-04-23 12:00:00 +1000
-categories: roundup
+categories: blog
 ---
 
 ## Background
@@ -13,17 +13,19 @@ In this blog, I'll aim to keep things short and sweet, with a variety of topics 
 
 As I embark on scratching this creative itch, I welcome all feedback and suggestions. Please feel free to share your thoughts with myself, as I'll be looking for ways to improve and make this blog more engaging. Thank you for joining me on this adventure!
 
-## Exploring Reading Fiction
+To start with, here's a roundup of some of the things that have caught my attention recently.
+
+### Exploring Reading Fiction
 
 I regrettably have not picked up a fiction book since high school, always finding myself constantly reading or listening to non-fiction books or audiobooks. Part of me has subconsciously found reading non-fiction a lot more accessible and allows for a more flexible reading schedule. Since almost all of the non-fiction I read is not story based, the content lends itself to act as more or a guide where the order of chapters isn't necessarily crucial, and swapping between multiple books often seems reasonable.
 
 Okay, so I am not going to give up reading non-fiction that easily but I have recently been inspired to start introducing fiction into my readings. At the start of the year this idea was brought to my attention by Lex Fridman where he is [reading a fiction book every week this year](https://www.reddit.com/r/lexfridman/comments/10045g8/book_reading_list_for_2023_post_from_lex/). I am not planning on adopting the same schedule but to go at my own pace and choose titles which I feel best align with my interests. He is also trying to read almost exclusively well respected classics, I feel I will try to do the same.
 
-I'm going in blind and starting off with *Hitchhiker’s Guide to the Galaxy* by Douglas Adams. I have heard bits and pieces about this book, but don't really know much about it other than it's considered to be a love letter to science fiction. Another reason for the pick was that it's quite a short read and if I want this to eventually become a habit, it needs to start off being a reasonably achievable goal (my personal approach to new things).
+I'm going in blind and starting off with _Hitchhiker’s Guide to the Galaxy_ by Douglas Adams. I have heard bits and pieces about this book, but don't really know much about it other than it's considered to be a love letter to science fiction. Another reason for the pick was that it's quite a short read and if I want this to eventually become a habit, it needs to start off being a reasonably achievable goal (my personal approach to new things).
 
 ![Image](../assets/2023-04-23-roundup-2023-04-23/762e1d4e-51f1-40c9-946c-b94681ed77a2.jpg)
 
-## Quote I'm Pondering
+### Quote I'm Pondering
 
 > At a certain point you stop being judged on your technical skills, and start being judged on how you work with people.
 
@@ -33,7 +35,7 @@ I felt this quote resonated with me and I paused to think it through for a secon
 
 A link to the podcast can be found [here](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnN5bnRheC5mbS9yc3M/episode/NDJhMGEyZGMtOTk4YS00N2ZmLTgxYjktOGQ4YjBkNGJkOTdh?ep=14) for those interested, just keep in mind that the context is quite technical.
 
-## An Okay Weather App
+### An Okay Weather App
 
 I have never felt more lost than when I was recently looking for an acceptable weather app. I would not be surprised if the 'weather app' genre is the most saturated app genre there is (other than maybe Flappy Bird clones). My search started because I recently moved phones and the existing one I had was OS specific. I had to find a new alternative.
 
@@ -45,7 +47,7 @@ After about half an hour of trying various options, I finally decided upon OpenW
 
 They have an app for both [Android](https://play.google.com/store/apps/details?id=uk.co.openweather) and [iOS](https://apps.apple.com/gb/app/openweather/id1535923697).
 
-## Imposter MP3s
+### Imposter MP3s
 
 Recently I have been going through my personal music library and cleaning it up quite a bit. Over the years I have amassed quite the collection. Most of this cleaning has been renaming and re-tagging audio files with correct metadata, as well as organising the files into an appropriate folder structure.
 
