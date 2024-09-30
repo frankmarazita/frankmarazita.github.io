@@ -46,7 +46,7 @@ My solution for syncing and backups is a combination of the following plugins an
 - [Tailscale](https://tailscale.com/)
 - [CouchDB](https://couchdb.apache.org/)
 - [docker-obsidian](https://github.com/rsmacapinlac/docker-obsidian?tab=readme-ov-file)
-	
+
 I mostly use the Self-hosted LiveSync plugin to sync my notes between all my obsidian devices. I have a CouchDB instance running on a VPS which the plugin uses to sync the notes. All my devices and the VPS are connected via Tailscale which allows me to access the CouchDB instance from anywhere privately. As a backup solution, I use Obsidian Git to commit changes to the CouchDB instance.
 
 Having a Git repository tracking my notes is a great backup solution. I can easily revert to a previous version of a note if I make a mistake or delete something by accident. I can also easily see the changes I've made to a note over time. I have Obsidian Git configured to commit changes to a private Git repository every 5 minutes.
@@ -82,7 +82,7 @@ Tthese plugins are powered by local LLMs that I have running on my machine. I am
   - I use this plugin to create and edit Excalidraw diagrams that live in my notes. I find it useful for creating quick diagrams and flowcharts.
 
 - [Obsidian Asciinema](https://github.com/frankmarazita/obsidian-asciinema)
-  
+
   - This is a plugin that I have started to build myself. It allows you to embed asciinema recordings in your notes. A frequent scenario is when I want to record the steps that I take to install a piece of software on my machine, usually when following an online tutorial. It is currently a very early work in progress.
 
 **Tools**
@@ -107,7 +107,7 @@ The cornerstone of my note-taking philosophy is accessibility. I believe that my
 
 **The Dump Note**
 
-A key element of my note-taking system is what I call the "Dump Note." This is essentially a catch-all note located at the root of my Obsidian vault. Its primary purpose is to serve as a dumping ground for tasks and thoughts that are yet to be organized. Whenever I come across something I need to remember or jot down quickly, especially on my mobile app, it goes straight into the Dump Note. This method ensures that no idea or task is lost, and I can sort through them later when I have the time to organize everything properly. Everything has a place, but you don't always have time to put it in its place. This note is always pinned as a tab on all my devices.
+A key element of my note-taking system is what I call the "Dump Note." This is essentially a catch-all note located at the root of my Obsidian vault. Its primary purpose is to serve as a dumping ground for tasks and thoughts that are yet to be organized as well as any idea capture. Whenever I come across something I need to remember or jot down quickly, especially on my mobile app, it goes straight into the Dump Note. This method ensures that no idea or task is lost, and I can sort through them later when I have the time to organize everything properly. Everything has a place, but you don't always have time to put it in its place. This note is always pinned as a tab on all my devices.
 
 What is also really awesome about Obsidian on mobile is that I can share to the Dump Note. This means that if I come across something that I want to remember, I can share it to the Dump Note directly and it will be there for me to sort through later.
 
