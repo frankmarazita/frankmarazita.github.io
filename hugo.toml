@@ -1,0 +1,64 @@
+baseURL = 'https://blog.fmz.pw'
+languageCode = 'en-us'
+title = 'Frank Marazita'
+
+[params]
+
+# Appearance settings
+
+theme = 'auto'
+colorPalette = 'eink'
+hideHeader = true
+
+# Intro on main page, content in markdown
+
+homeIntroTitle = 'Hey!'
+homeIntroContent = """
+I’m Frank, a software engineer, and motivational thinker based in Melbourne, Australia. I hold a Bachelor's degree from [RMIT University](https://www.rmit.edu.au/) and currently work as a Software Engineer.
+
+Here, I write about software development, productivity, and personal growth, driven by my passion for learning and sharing knowledge. Welcome to my blog!
+
+Feel free to get in contact!
+"""
+
+singleDateFormat = '02 Jan 2006'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '02 Jan 2006'
+
+# Breadcrumbs
+breadcrumbs = true
+
+# Social icons
+
+[[params.social]]
+name = "email"
+url = "mailto:me@fmz.pw"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/frankmarazita"
+
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/frank-marazita/"
+
+[[params.social]]
+
+# Main menu pages
+
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "blog"
+url = "/blog"
+
+# Syntax highlight on code blocks
+
+[markup]
+[markup.highlight]
+style = 'bw'

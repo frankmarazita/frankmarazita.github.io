@@ -1,0 +1,24 @@
+name = 'Typo'
+
+tags = [
+    "responsive",
+    "simple",
+    "clean",
+    "light",
+    "dark",
+    "blog",
+    "minimal",
+    "personal",
+    "portfolio",
+]
+
+features = [
+    "responsive",
+    "blog",
+    "table-of-contents",
+    "highlight.js",
+    "social-icons",
+    "minified-assets",
+    "dark-light-images",
+    "color-palettes",
+]

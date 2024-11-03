@@ -1,8 +1,11 @@
 ---
-layout: post
 title: "Welcome to my blog!"
-date: 2023-04-23 12:00:00 +1000
-categories: blog
+date: 2023-04-23
+summary: "An introduction to my blog and a roundup of some of the things that have caught my attention recently."
+toc: true
+readTime: true
+autonumber: true
+showTags: false
 ---
 
 ## Background
@@ -23,7 +26,7 @@ Okay, so I am not going to give up reading non-fiction that easily but I have re
 
 I'm going in blind and starting off with _Hitchhiker’s Guide to the Galaxy_ by Douglas Adams. I have heard bits and pieces about this book, but don't really know much about it other than it's considered to be a love letter to science fiction. Another reason for the pick was that it's quite a short read and if I want this to eventually become a habit, it needs to start off being a reasonably achievable goal (my personal approach to new things).
 
-![Image](../assets/2023-04-23-roundup-2023-04-23/762e1d4e-51f1-40c9-946c-b94681ed77a2.jpg)
+![Image](762e1d4e-51f1-40c9-946c-b94681ed77a2.jpg)
 
 ### Quote I'm Pondering
 

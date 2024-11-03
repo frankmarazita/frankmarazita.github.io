@@ -1,0 +1,26 @@
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width" />
+
+{{ with .OutputFormats.Get "rss" -}} {{ printf `<link
+  rel="%q"
+  type="%q"
+  href="%q"
+  title="%q"
+/>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }} {{ end }} {{- if
+.IsHome -}}
+<meta name="description" content="{{ site.Params.Description }}" />
+{{- else -}}
+<meta name="description" content="{{ .Params.Description }}" />
+{{- end }}
+
+<title>
+  {{ if .IsHome }} {{ site.Title }} {{ else }} {{ printf "%s | %s" .Title
+  site.Title }} {{ end }}
+</title>
+
+<link rel="canonical" href="{{ .Permalink }}" />
+
+{{ template "_internal/opengraph.html" . }} {{ partialCached "head/css.html" .
+}} {{ partialCached "head/js.html" . }} {{ if hugo.IsProduction }} {{ template
+"_internal/google_analytics.html" . }} {{ if .Site.Params.umami.enable }} {{
+partial "umami.html" . }} {{ end }} {{ end }}

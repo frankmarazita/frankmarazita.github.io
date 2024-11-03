@@ -1,8 +1,11 @@
 ---
-layout: post
 title: "How I Take Notes with Obsidian"
-date: 2024-07-11 12:00:00 +1000
-categories: notes
+date: 2024-07-11
+summary: "A deep dive into my note taking system with Obsidian, including my syncing setup, plugins, and note taking philosophy."
+toc: true
+readTime: true
+autonumber: true
+showTags: false
 ---
 
 **_Note: The way that I use Obsidian is always changing so this post will is considered an ongoing WIP. I'll do my best to maintain this post with whatever current tools and techniques I'm using!_**
