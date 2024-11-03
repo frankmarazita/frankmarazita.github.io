@@ -90,13 +90,13 @@ Tthese plugins are powered by local LLMs that I have running on my machine. I am
 
 **Tools**
 
-- [Linter]()
+- [Linter](https://github.com/platers/obsidian-linter)
 
-- [Advanced Cursors]()
+- [Advanced Cursors](https://github.com/SkepticMystic/advanced-cursors)
 
-- [Second Window ]()
+- [Second Window ](https://github.com/javalent/second-window)
 
-- [Kindle Snippets]()
+- [Kindle Highlights](https://github.com/hadynz/obsidian-kindle-plugin)
 
 When it comes to visual customisation of the editor, I usually try keep things to as much of a default as possible. I tend to find that with heavy customisations comes unexpected issues, these could be due to plugins not being maintained while the core platform updates. There is also the retention of familiarity if I need to use another device without my customisations. If I wasn't using obsidian across multiple synced devices, I may be more inclined to spend time on customisations and worry less about these problems occurring.
 
