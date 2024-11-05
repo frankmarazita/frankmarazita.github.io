@@ -8,7 +8,7 @@ autonumber: true
 showTags: false
 ---
 
-**_Note: The way that I use Obsidian is always changing so this post will is considered an ongoing WIP. I'll do my best to maintain this post with whatever current tools and techniques I'm using!_**
+**_Note: The way that I use Obsidian is always changing so this post will be considered an ongoing WIP. I'll do my best to maintain this post with whatever current tools and techniques I'm using!_**
 
 ### Introduction
 
