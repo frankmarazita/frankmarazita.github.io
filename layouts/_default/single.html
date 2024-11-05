@@ -84,6 +84,16 @@
   {{ partial "pagination-single.html" . }}
   {{ end }}
 
+  {{/* Comments */}}
+
+  <script src="https://utteranc.es/client.js"
+    repo="frankmarazita/frankmarazita.github.io"
+    issue-term="pathname"
+    theme="github-dark"
+    crossorigin="anonymous"
+    async>
+  </script>
+
   {{/* Back to top */}}
 
   {{ if not (.Param "hideBackToTop") }}
